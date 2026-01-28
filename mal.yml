@@ -3,6 +3,11 @@ output_directory: produktspesifikasjon
 product_slug: arealanalysetestscope2
 updated: 2026-01-28
 scopes: 
-  - name: arealanalyse
-    url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Statens kartverk/NasjonaltGrunnkartForArealanalyse-20260101.xml
+  - name: datafangst
+    url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Kommunal- og moderniseringsdepartementet/Arealplan/Arealplan 5.0/PlanleggingIgangsatt.xml
     generator: xmi
+    description: Datamodellen brukes for å legge ved gml filer for planområdet som brukes i tjenesten for varsel om planoppstart.
+  - name: innsynstjeneste
+    url: https://plandata.ft.dibk.no/services/planleggingigangsatt/collections
+    generator: ogc_feature_api
+    description: Tjeneste for innsyn i planområder som er varslet for planlegging igangsatt.
