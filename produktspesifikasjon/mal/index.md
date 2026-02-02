@@ -1,6 +1,6 @@
 ---
 title: "Nasjonalt grunnkart for arealanalyse (Testversjon 2)"
-updated: "2026-01-28"
+updated: "2026-02-02"
 organization: "Statistisk sentralbyrå"
 logo: "https://register.geonorge.no/data/organizations/971526920_SSB_liten.png"
 ---
@@ -199,7 +199,7 @@ Kommunal- og distriktsdepartementet (KDD) publiserte i 2023 en veileder for area
 
 **Standardversjon**: 2003
 
-**Metadatadato**: 2026-01-28
+**Metadatadato**: 2026-02-01
 
 **språk**: nor
 
